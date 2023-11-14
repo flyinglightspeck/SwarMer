@@ -1,8 +1,5 @@
 # SwarMer
 
-## Clone
-``git clone https://github.com/flyinglightspeck/SwarMer.git``
-
 ## Setup
 
 ``bash setup.sh``
