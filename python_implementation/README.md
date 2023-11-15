@@ -1,4 +1,4 @@
-# SwarMer
+# SwarMer Python Implementation
 
 ## Setup
 
