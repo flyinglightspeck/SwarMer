@@ -1,6 +1,7 @@
 # SwarMer
 
 This repository contains MATLAB simulation and a Python implementation of SwarMer, a decentralized localization algorithm.
+Visit [here](https://www.holodecks.quest/_files/ugd/fb2888_f3e51e31182f4cd9b61204547b6b89f3.pdf?index=true) to access the PDF document of the publication.
 
 ## Clone
 ``git clone https://github.com/flyinglightspeck/SwarMer.git``
