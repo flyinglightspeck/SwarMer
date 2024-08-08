@@ -2,8 +2,8 @@
 
 N=22 # number of total servers
 USERNAME="ubuntu"
-KEY_PATH="/Users/hamed/Desktop/hamed-vir.pem"
-LOCAL_KEY_PATH="~/SwarMer/hamed-vir.pem"
+KEY_PATH="path/to/key.pem"
+LOCAL_KEY_PATH="~/SwarMer/key.pem"
 
 #cluster 1
 HOSTNAMES=(
