@@ -13,6 +13,7 @@ Please take a look at the README of each implementation for instructions.
 
 Hamed Alimohammadzadeh and Shahram Ghandeharizadeh. SwarMer: A Decentralized Localization Framework for Flying Light Specks. In the Proceedings of the First International Conference on Holodecks (Holodecks '23), December 15 2023, Los Angeles, California, USA, 10-22. https://doi.org/10.61981/ZFSH2302
 
+```
 @inproceedings{alimohammadzadeh2023swarmer,
 author = {Alimohammadzadeh, Hamed and Ghandeharizadeh, Shahram}, 
 title = {{SwarMer: A Decentralized Localization Framework for Flying Light Specks}},
@@ -28,3 +29,4 @@ pages = {10--22},
 location = {Los Angeles, California}, 
 series = {Holodecks '23} 
 }
+```
