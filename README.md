@@ -19,7 +19,7 @@ The MATLAB simulation and the Phyton emulation are two independent implementatio
 Hamed Alimohammadzadeh and Shahram Ghandeharizadeh. SwarMer: A Decentralized Localization Framework for Flying Light Specks. In the Proceedings of the First International Conference on Holodecks (Holodecks '23), December 15 2023, Los Angeles, California, USA, 10-22. https://doi.org/10.61981/ZFSH2302
 
 ```
-@inproceedings{alimohammadzadeh2023swarmer,
+@inproceedings{swarmer2023,
 author = {Alimohammadzadeh, Hamed and Ghandeharizadeh, Shahram}, 
 title = {{SwarMer: A Decentralized Localization Framework for Flying Light Specks}},
 year = {2023}, 
